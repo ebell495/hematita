@@ -1,0 +1,5 @@
+project: hematita
+target: hematita_cli
+
+cmds:
+    - cmd: ./hematita_cli @@
